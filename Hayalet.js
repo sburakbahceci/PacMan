@@ -9,7 +9,7 @@ function hayalet(xKord, yKord, gColor, Yon) {
     this.isYanarli = false;
     this.isOlu = false;
     this.hız = hız;
-    this.hız1 = hız1;s
+    this.hız1 = hız1;
     this.seviye = seviye;
     this.AdimSayac = 0;
 
